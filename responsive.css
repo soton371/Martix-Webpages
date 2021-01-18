@@ -1,0 +1,8 @@
+@media(max-width: 767px){
+	h1{
+		font-size: 50px !important;
+	}
+	.book{
+		display: none;
+	}
+}

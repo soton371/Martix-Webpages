@@ -1,0 +1,98 @@
+.navbar{
+    background: #fff;
+    opacity: 0.9;
+}
+
+.nav-item{
+    font-size: 1.4rem;
+    color: #252525;
+    padding-right: 20px;
+}
+.nav-item:last-child{
+    padding-right: 0;
+}
+a.nav-link{
+    color: #000 !important;
+}
+a.nav-link:hover{
+    color: #3292a6 !important;
+}
+#showcase_section{
+    margin-top: 90px;
+    background-image: url(assets/img/mountains.jpg);
+}
+.showcase_overlay{
+    background: rgba(50, 146, 156, 0.7);
+}
+a.btn{
+    border-radius: 0px;
+    font-size: 20px;
+}
+#subscribe_section{
+    background: #252525;
+}
+#subscribe_section input,.sbutton{
+    border-radius: 0;
+}
+.sbutton{
+    background: #3292a6;
+    color: #fff;
+}
+.sbutton:hover{
+    background: #226573;
+    color: #fff;
+}
+#cardbox_section .card{
+    border-radius: 0;
+    border-color: #3292a6;
+}
+.card1 h3{
+    color: #3292a6;
+}
+.card2{
+    background: #3292a6;
+    border-radius: 0;
+    border-color: #3292a6;
+    color: #fff;
+}
+
+/*FOR WHY SECTION*/
+#why_section h1{
+    color: #3292a6;
+}
+
+/*FOR AUTHORS SECTION*/
+#author_section img{
+    margin-top: -50px;
+}
+.author_card{
+    padding-top: 50px;
+}
+.author_card .fab{
+    font-size: 25px;
+    color: #3292a6;
+}
+.author_card .card:hover{
+    background: #3292a6;
+    color: #fff;
+}
+.author_card .card:hover .fab{
+    color: #fff;
+}
+.author_card .card{
+    border-radius: 0;
+}
+#author_section h1{
+    color: #3292a6;
+}
+
+/*FOR CONTACT*/
+span.input-group-text {
+    border-radius: 0px !important;
+}
+#contact_section .form-control{
+    border-radius: 0px !important;
+}
+#contact_section .btn{
+    border-radius: 0px !important;
+}
